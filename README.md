@@ -25,37 +25,11 @@ The project culminates in a user-friendly graphical interface created using the 
 The deployment aspect involves the use of Docker for containerization, ensuring consistent behavior across different environments. Leveraging the Render cloud platform, the web application is deployed, making it accessible to users through a server.
 
 ## Project Images
-
-<figure>
-  <img src="images/image1.png" alt="Data Collection and Analysis">
-  <figcaption style="text-align:center;">Figure 1: Data Collection and Analysis</figcaption>
-</figure>
-
-<br>
-
-<figure>
-  <img src="images/image2.png" alt="Feature Engineering and Model Building">
-  <figcaption style="text-align:center;">Figure 2: Feature Engineering and Model Building</figcaption>
-</figure>
-<br>
-
-<figure>
-  <img src="images/image3.png">
-  <figcaption style="text-align:center;">Figure 3: GUI Development and Deployment</figcaption>
-</figure>
-<br>
-
-<figure>
-  <img src="images/image4.png">
-  <figcaption style="text-align:center;">Figure 3: GUI Development and Deployment</figcaption>
-</figure>
-<br>
-
-<figure>
-  <img src="images/image5.png">
-  <figcaption style="text-align:center;">Figure 3: GUI Development and Deployment</figcaption>
-</figure>
-<br>
+![Project Images](images/image1.png)
+![Project Images](images/image2.png)
+![Project Images](images/image3.png)
+![Project Images](images/image4.png)
+![Project Images](images/image5.png)
 
 
 ### Image Description
