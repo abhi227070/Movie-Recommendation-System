@@ -31,25 +31,31 @@ The deployment aspect involves the use of Docker for containerization, ensuring 
   <figcaption style="text-align:center;">Figure 1: Data Collection and Analysis</figcaption>
 </figure>
 
+</br>
+
 <figure>
   <img src="images/image2.png" alt="Feature Engineering and Model Building">
   <figcaption style="text-align:center;">Figure 2: Feature Engineering and Model Building</figcaption>
 </figure>
+</br>
 
 <figure>
   <img src="images/image3.png">
   <figcaption style="text-align:center;">Figure 3: GUI Development and Deployment</figcaption>
 </figure>
+</br>
 
 <figure>
   <img src="images/image4.png">
   <figcaption style="text-align:center;">Figure 3: GUI Development and Deployment</figcaption>
 </figure>
+</br>
 
 <figure>
   <img src="images/image5.png">
   <figcaption style="text-align:center;">Figure 3: GUI Development and Deployment</figcaption>
 </figure>
+</br>
 
 
 ### Image Description
