@@ -26,7 +26,8 @@ The deployment aspect involves the use of Docker for containerization, ensuring 
 
 ## Project Images
 
-![Project Images](images/image1.png) #Fig. 1
+![Project Images](images/image1.png)
+*Data Collection and Analysis: Acquiring and Exploring the Kaggle Dataset*
 ![Project Images](images/image2.png)
 ![Project Images](images/image3.png)
 ![Project Images](images/image4.png)
