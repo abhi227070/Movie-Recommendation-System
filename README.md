@@ -1,5 +1,17 @@
 # Movie Recommendation System
 
+# Content Page
+
+- [Introduction](#introduction)
+- [Project Overview](#project-overview)
+  - [Data Collection and Analysis](#data-collection-and-analysis)
+  - [Feature Engineering and Model Building](#feature-engineering-and-model-building)
+  - [GUI Development and Deployment](#gui-development-and-deployment)
+- [Project Images](#project-images)
+- [Usage](#usage)
+- [License](#license)
+- [Contact](#contact)
+
 ## Introduction
 
 The Movie Recommendation System is an advanced machine learning project developed in Python, aimed at providing tailored movie suggestions to users based on their preferences and viewing habits. Leveraging various machine learning algorithms and data processing techniques, this system offers a personalized and enriched movie-watching experience.
