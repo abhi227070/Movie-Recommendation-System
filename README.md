@@ -26,7 +26,7 @@ The deployment aspect involves the use of Docker for containerization, ensuring 
 
 ## Project Images
 
-![Project Images](image1.png)
+![Project Images](images/image1.png)
 
 ### Image Description
 
